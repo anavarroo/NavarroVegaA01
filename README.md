@@ -24,5 +24,8 @@ La quinta sección replica el contenido del cuarto nivel. Esta vez, el diseño s
 
 ![image](https://github.com/anavarroo/NavarroVegaA01/assets/117681310/d3aa07d2-adc9-44ce-99b8-a3116eeed0e3)
 
+![image](https://github.com/anavarroo/NavarroVegaA01/assets/117681310/63b0a03a-62e3-4a6f-be58-097ee5e9847d)
+
+
 
 
